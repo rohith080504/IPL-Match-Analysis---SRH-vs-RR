@@ -1,16 +1,16 @@
 # IPL Match Analysis: Sunrisers Hyderabad (SRH) vs Rajasthan Royals (RR)
 
-## 📌 Project Overview
+## Project Overview
 This repository contains a detailed data-driven performance analysis of the TATA IPL 2025 Match No. 2 between Sunrisers Hyderabad (SRH) and Rajasthan Royals (RR). The objective of this project is to extract actionable insights regarding batting and bowling patterns, performance under pressure, and fielding efficiency to assist coaching staff and analysts in optimizing match strategies. 
 
-## 🏟️ Match Details
+## Match Details
 * **Venue:** Rajiv Gandhi International Stadium, Uppal, Hyderabad.
 * **Toss:** Rajasthan Royals won the toss and elected to field.
 * **Match Result:** Sunrisers Hyderabad won by 44 runs.
 * **Final Scores:** SRH posted 286/6 (14.30 Run Rate), while RR finished at 242/6 (12.10 Run Rate).
 * **Player of the Match:** Ishan Kishan (SRH) earned the honor for scoring the first century of the TATA IPL 2025 season.
 
-## 📊 Key Analytical Insights
+## Key Analytical Insights
 
 ### Batting Dynamics
 * **SRH Dominance:** Sunrisers Hyderabad's victory was built on their top order, which contributed a massive 197 runs (73.51% of their total). 
@@ -25,7 +25,7 @@ This repository contains a detailed data-driven performance analysis of the TATA
 * **SRH Execution:** Sunrisers Hyderabad demonstrated high concentration in the field, converting chances with an 85.71% catching efficiency over 125 minutes on the field. 
 * **RR Lapses:** Rajasthan Royals suffered from critical lapses, logging a 75.00% catching efficiency over a fatiguing 166 minutes on the field, which directly contributed to SRH's massive total. 
 
-## 🛠️ Strategic Recommendations (Action Plan for RR)
+## Strategic Recommendations (Action Plan for RR)
 Based on the analysis, the following actions are recommended for the Rajasthan Royals coaching staff:
 
 * **For the Batting Unit:** Implement mandatory scenario training for high chases (200+ runs) and conduct net sessions where batters are penalized for playing more than two consecutive dot balls to improve strike rotation. 
